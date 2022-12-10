@@ -6,7 +6,7 @@
 	</h1>
 </div>
 <div align="center">
-	<a href="https://drive.google.com/file/d/1sl1qM4Y3RulJGkvow5xDrq74peMI2tI4/view?usp=sharing"><img src="/src/video_tumb.png" class="media-object  img-responsive img-thumbnail"></a>
+	<a href="https://drive.google.com/file/d/1sl1qM4Y3RulJGkvow5xDrq74peMI2tI4/view?usp=sharing"><img src="/src/video_tumb_.png" class="media-object  img-responsive img-thumbnail"></a>
 <br>
 </div>
 
