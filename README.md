@@ -19,7 +19,3 @@
 </p>
 
 <br>
-
-<div align="center">
-	<b>Siga meu <a target="_blank" href="https://github.com/mffdsp"> github</a> para atualizações.</b>
-</div>
