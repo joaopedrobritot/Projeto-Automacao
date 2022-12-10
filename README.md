@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/joaopedrobritot/Projeto-Automacao/report/Relatório Projeto - Automação - João Pedro - Mateus Felismino.pdf">Relatório</a>&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/joaopedrobritot/Projeto-Automacao/blob/main/report/Relat%C3%B3rio%20Projeto%20-%20Automa%C3%A7%C3%A3o%20-%20Jo%C3%A3o%20Pedro%20-%20Mateus%20Felismino.pdf">Relatório</a>&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="mailto:jpbt@ic.ufal.br" >jpbt@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="mailto:mffsp@ic.ufal.br" >mffsp@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	
