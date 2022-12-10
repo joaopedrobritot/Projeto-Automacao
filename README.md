@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://github.com/joaopedrobritot/Projeto-Automacao/report/Relatório Projeto - Automação - João Pedro - Mateus Felismino.pdf">Relatório</a>&nbsp;&nbsp;&nbsp;
-	<a href="mailto:jpbt@ic.ufal.br" >jpbt@ic.ufal.br"</a>&nbsp;&nbsp;&nbsp;
+	<a href="mailto:jpbt@ic.ufal.br" >jpbt@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	<a href="mailto:mffsp@ic.ufal.br" >mffsp@ic.ufal.br</a>&nbsp;&nbsp;&nbsp;
 	
 	
